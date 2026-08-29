@@ -1,43 +1,43 @@
 {
- "actualizado": "2026-08-28T03:37:55",
+ "actualizado": "2026-08-29T02:20:32",
  "unidad": "EUR/MWh",
- "fecha_curva": "2026-08-28",
- "forward_12m": 90.84,
+ "fecha_curva": "2026-08-29",
+ "forward_12m": 91.1,
  "instrumentos": [
   {
    "clave": "M1",
    "instrumento": "FTB M Sep-26",
-   "precio": 125.0,
+   "precio": 126.25,
    "peso_forward": 1
   },
   {
    "clave": "M2",
    "instrumento": "FTB M Oct-26",
-   "precio": 117.85,
+   "precio": 117.5,
    "peso_forward": 0
   },
   {
    "clave": "M3",
    "instrumento": "FTB M Nov-26",
-   "precio": 124.27,
+   "precio": 124.47,
    "peso_forward": 0
   },
   {
    "clave": "M4",
    "instrumento": "FTB M Dec-26",
-   "precio": 120.99,
+   "precio": 121.15,
    "peso_forward": 0
   },
   {
    "clave": "M5",
    "instrumento": "FTB M Jan-27",
-   "precio": 113.28,
+   "precio": 113.53,
    "peso_forward": 0
   },
   {
    "clave": "M6",
    "instrumento": "FTB M Feb-27",
-   "precio": 98.15,
+   "precio": 98.4,
    "peso_forward": 0
   },
   {
@@ -49,49 +49,49 @@
   {
    "clave": "Q2",
    "instrumento": "FTB Q1-27",
-   "precio": 100.5,
+   "precio": 100.75,
    "peso_forward": 3
   },
   {
    "clave": "Q3",
    "instrumento": "FTB Q2-27",
-   "precio": 49.75,
+   "precio": 49.7,
    "peso_forward": 3
   },
   {
    "clave": "Q4",
    "instrumento": "FTB Q3-27",
-   "precio": 75.69,
+   "precio": 76.31,
    "peso_forward": 2
   },
   {
    "clave": "Q5",
    "instrumento": "FTB Q4-27",
-   "precio": 74.35,
+   "precio": 76.31,
    "peso_forward": 0
   },
   {
    "clave": "Q6",
    "instrumento": "FTB Q1-28",
-   "precio": 65.61,
+   "precio": 65.71,
    "peso_forward": 0
   },
   {
    "clave": "Q7",
    "instrumento": "FTB Q2-28",
-   "precio": 42.55,
+   "precio": 42.65,
    "peso_forward": 0
   },
   {
    "clave": "Y1",
    "instrumento": "FTB YR-27",
-   "precio": 75.0,
+   "precio": 75.7,
    "peso_forward": 0
   },
   {
    "clave": "Y2",
    "instrumento": "FTB YR-28",
-   "precio": 58.5,
+   "precio": 58.6,
    "peso_forward": 0
   },
   {
