@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T21:56:25",
+ "actualizado": "2026-08-31T23:15:29",
  "unidad": "EUR/MWh",
  "luz": {
   "fuente": "OMIE (spot) + OMIP (futuros)",
@@ -17,7 +17,7 @@
   },
   "spot_media_12m": 65.7,
   "forward_12m": 91.1,
-  "fecha_curva_omip": "2026-08-30",
+  "fecha_curva_omip": "2026-08-31",
   "fijo_teorico": 129.1,
   "mejor_fijo_catalogo": 109.9,
   "ventana_fijacion": 19.2,
@@ -39,9 +39,9 @@
    "media": 55.03
   },
   "spot_media_12m": 38.6,
-  "forward_12m": 56.0,
-  "fecha_curva": "2026-08-28",
-  "forward_menos_spot": -5.87,
+  "forward_12m": 58.89,
+  "fecha_curva": "2026-08-31",
+  "forward_menos_spot": -2.98,
   "estructura": "BACKWARDATION"
  }
 }
