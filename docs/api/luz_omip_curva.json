@@ -1,37 +1,37 @@
 {
- "actualizado": "2026-09-01T21:52:06",
+ "actualizado": "2026-09-02T21:54:21",
  "unidad": "EUR/MWh",
- "fecha_curva": "2026-09-01",
- "forward_12m": 90.5,
+ "fecha_curva": "2026-09-02",
+ "forward_12m": 92.82,
  "instrumentos": [
   {
    "clave": "M1",
    "instrumento": "FTB M Oct-26",
-   "precio": 125.25,
+   "precio": 130.0,
    "peso_forward": 0
   },
   {
    "clave": "M2",
    "instrumento": "FTB M Nov-26",
-   "precio": 129.16,
+   "precio": 134.0,
    "peso_forward": 0
   },
   {
    "clave": "M3",
    "instrumento": "FTB M Dec-26",
-   "precio": 127.4,
+   "precio": 132.07,
    "peso_forward": 0
   },
   {
    "clave": "M4",
    "instrumento": "FTB M Jan-27",
-   "precio": 122.0,
+   "precio": 128.95,
    "peso_forward": 0
   },
   {
    "clave": "M5",
    "instrumento": "FTB M Feb-27",
-   "precio": 103.9,
+   "precio": 107.85,
    "peso_forward": 0
   },
   {
@@ -43,61 +43,61 @@
   {
    "clave": "Q1",
    "instrumento": "FTB Q4-26",
-   "precio": 127.25,
+   "precio": 132.0,
    "peso_forward": 3
   },
   {
    "clave": "Q2",
    "instrumento": "FTB Q1-27",
-   "precio": 106.25,
+   "precio": 110.2,
    "peso_forward": 3
   },
   {
    "clave": "Q3",
    "instrumento": "FTB Q2-27",
-   "precio": 50.25,
+   "precio": 51.87,
    "peso_forward": 3
   },
   {
    "clave": "Q4",
    "instrumento": "FTB Q3-27",
-   "precio": 78.25,
+   "precio": 77.21,
    "peso_forward": 3
   },
   {
    "clave": "Q5",
    "instrumento": "FTB Q4-27",
-   "precio": 76.98,
+   "precio": 77.13,
    "peso_forward": 0
   },
   {
    "clave": "Q6",
    "instrumento": "FTB Q1-28",
-   "precio": 68.0,
+   "precio": 68.5,
    "peso_forward": 0
   },
   {
    "clave": "Q7",
    "instrumento": "FTB Q2-28",
-   "precio": 42.8,
+   "precio": 44.05,
    "peso_forward": 0
   },
   {
    "clave": "Y1",
    "instrumento": "FTB YR-27",
-   "precio": 77.85,
+   "precio": 79.0,
    "peso_forward": 0
   },
   {
    "clave": "Y2",
    "instrumento": "FTB YR-28",
-   "precio": 58.75,
+   "precio": 60.0,
    "peso_forward": 0
   },
   {
    "clave": "Y3",
    "instrumento": "FTB YR-29",
-   "precio": 54.25,
+   "precio": 54.5,
    "peso_forward": 0
   }
  ]
