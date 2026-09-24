@@ -391,3 +391,11 @@
 2026-09-23 22:23  MIBGAS: curva de 11 productos (2026-09-23) · pesos suman 12
 2026-09-23 22:23  Excel gas regenerado OK
 2026-09-23 22:23  JSON de la API regenerado OK
+2026-09-24 22:34  OMIE: 1 días nuevos · 56 en caché desde 2026-09-01
+2026-09-24 22:34  OMIE: diario del mes → 25 días
+2026-09-24 22:34  OMIP: 16 instrumentos · suma de pesos 12 (debe ser 12)
+2026-09-24 22:34  Excel regenerado OK
+2026-09-24 22:34  MIBGAS: spot con 1364 días de entrega (último 2026-09-25)
+2026-09-24 22:34  MIBGAS: curva de 11 productos (2026-09-24) · pesos suman 12
+2026-09-24 22:34  Excel gas regenerado OK
+2026-09-24 22:34  JSON de la API regenerado OK
