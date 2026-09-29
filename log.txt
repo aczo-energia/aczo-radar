@@ -431,3 +431,11 @@
 2026-09-28 23:51  MIBGAS: curva de 11 productos (2026-09-28) · pesos suman 12
 2026-09-28 23:51  Excel gas regenerado OK
 2026-09-28 23:51  JSON de la API regenerado OK
+2026-09-29 23:04  OMIE: 0 días nuevos · 60 en caché desde 2026-09-01 · sin publicar aún: 2026-09-30
+2026-09-29 23:04  OMIE: diario del mes → 29 días
+2026-09-29 23:04  ERROR OMIP: HTTP Error 502: Bad Gateway — el Excel mantiene la última curva guardada
+2026-09-29 23:04  Excel regenerado OK
+2026-09-29 23:04  ERROR MIBGAS spot: HTTP Error 502: Bad Gateway — el Excel se regenera con lo último disponible
+2026-09-29 23:04  ERROR MIBGAS curva: HTTP Error 502: Bad Gateway — el Excel mantiene la última curva guardada
+2026-09-29 23:04  Excel gas regenerado OK
+2026-09-29 23:04  JSON de la API regenerado OK
