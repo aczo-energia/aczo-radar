@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-10-25T21:57:10",
+ "actualizado": "2026-10-26T23:12:43",
  "unidad": "EUR/MWh",
- "fecha_curva": "2026-10-23",
- "forward_12m": 79.41,
+ "fecha_curva": "2026-10-26",
+ "forward_12m": 81.69,
  "productos": [
   {
    "producto": "GMAES",
    "etiqueta": "Mes M+1 (Nov26-Nov26)",
    "entrega_ini": "2026-11-01",
    "entrega_fin": "2026-11-30",
-   "precio": 92.6,
+   "precio": 95.19,
    "peso_forward": 1
   },
   {
@@ -17,7 +17,7 @@
    "etiqueta": "Mes M+2 (Dec26-Dec26)",
    "entrega_ini": "2026-12-01",
    "entrega_fin": "2026-12-31",
-   "precio": 92.65,
+   "precio": 95.28,
    "peso_forward": 1
   },
   {
@@ -25,7 +25,7 @@
    "etiqueta": "Mes M+3 (Jan27-Jan27)",
    "entrega_ini": "2027-01-01",
    "entrega_fin": "2027-01-31",
-   "precio": 92.8,
+   "precio": 95.54,
    "peso_forward": 0
   },
   {
@@ -33,7 +33,7 @@
    "etiqueta": "Trimestre Q+1 (Jan27-Mar27)",
    "entrega_ini": "2027-01-01",
    "entrega_fin": "2027-03-31",
-   "precio": 91.59,
+   "precio": 93.83,
    "peso_forward": 3
   },
   {
@@ -41,7 +41,7 @@
    "etiqueta": "Trimestre Q+2 (Apr27-Jun27)",
    "entrega_ini": "2027-04-01",
    "entrega_fin": "2027-06-30",
-   "precio": 73.45,
+   "precio": 75.75,
    "peso_forward": 3
   },
   {
@@ -49,7 +49,7 @@
    "etiqueta": "Trimestre Q+3 (Jul27-Sep27)",
    "entrega_ini": "2027-07-01",
    "entrega_fin": "2027-09-30",
-   "precio": 68.63,
+   "precio": 70.73,
    "peso_forward": 3
   },
   {
@@ -57,7 +57,7 @@
    "etiqueta": "Trimestre Q+4 (Oct27-Dec27)",
    "entrega_ini": "2027-10-01",
    "entrega_fin": "2027-12-31",
-   "precio": 66.63,
+   "precio": 68.9,
    "peso_forward": 1
   },
   {
@@ -65,7 +65,7 @@
    "etiqueta": "Verano (abr-sep) (Apr27-Sep27)",
    "entrega_ini": "2027-04-01",
    "entrega_fin": "2027-09-30",
-   "precio": 71.5,
+   "precio": 73.23,
    "peso_forward": 0
   },
   {
@@ -73,7 +73,7 @@
    "etiqueta": "Invierno (oct-mar) (Oct27-Mar28)",
    "entrega_ini": "2027-10-01",
    "entrega_fin": "2028-03-31",
-   "precio": 65.11,
+   "precio": 67.41,
    "peso_forward": 0
   },
   {
@@ -81,7 +81,7 @@
    "etiqueta": "Año Y+1 (Jan27-Dec27)",
    "entrega_ini": "2027-01-01",
    "entrega_fin": "2027-12-31",
-   "precio": 76.0,
+   "precio": 77.33,
    "peso_forward": 0
   },
   {
@@ -89,7 +89,7 @@
    "etiqueta": "Año Y+2 (Jan28-Dec28)",
    "entrega_ini": "2028-01-01",
    "entrega_fin": "2028-12-31",
-   "precio": 48.45,
+   "precio": 48.7,
    "peso_forward": 0
   }
  ]
