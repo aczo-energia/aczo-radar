@@ -1,37 +1,37 @@
 {
- "actualizado": "2026-10-29T23:26:58",
+ "actualizado": "2026-10-30T23:03:52",
  "unidad": "EUR/MWh",
- "fecha_curva": "2026-10-29",
- "forward_12m": 142.59,
+ "fecha_curva": "2026-10-30",
+ "forward_12m": 141.14,
  "instrumentos": [
   {
    "clave": "M1",
    "instrumento": "FTB M Nov-26",
-   "precio": 197.0,
+   "precio": 193.0,
    "peso_forward": 1
   },
   {
    "clave": "M2",
    "instrumento": "FTB M Dec-26",
-   "precio": 198.38,
+   "precio": 192.5,
    "peso_forward": 1
   },
   {
    "clave": "M3",
    "instrumento": "FTB M Jan-27",
-   "precio": 206.35,
+   "precio": 199.5,
    "peso_forward": 0
   },
   {
    "clave": "M4",
    "instrumento": "FTB M Feb-27",
-   "precio": 190.3,
+   "precio": 192.91,
    "peso_forward": 0
   },
   {
    "clave": "M5",
    "instrumento": "FTB M Mar-27",
-   "precio": 115.97,
+   "precio": 117.56,
    "peso_forward": 0
   },
   {
@@ -43,7 +43,7 @@
   {
    "clave": "Q1",
    "instrumento": "FTB Q1-27",
-   "precio": 170.25,
+   "precio": 169.25,
    "peso_forward": 3
   },
   {
@@ -55,49 +55,49 @@
   {
    "clave": "Q3",
    "instrumento": "FTB Q3-27",
-   "precio": 131.86,
+   "precio": 130.31,
    "peso_forward": 3
   },
   {
    "clave": "Q4",
    "instrumento": "FTB Q4-27",
-   "precio": 128.86,
+   "precio": 129.0,
    "peso_forward": 1
   },
   {
    "clave": "Q5",
    "instrumento": "FTB Q1-28",
-   "precio": 88.06,
+   "precio": 88.12,
    "peso_forward": 0
   },
   {
    "clave": "Q6",
    "instrumento": "FTB Q2-28",
-   "precio": 60.72,
+   "precio": 60.76,
    "peso_forward": 0
   },
   {
    "clave": "Q7",
    "instrumento": "FTB Q3-28",
-   "precio": 75.28,
+   "precio": 75.33,
    "peso_forward": 0
   },
   {
    "clave": "Y1",
    "instrumento": "FTB YR-27",
-   "precio": 131.0,
+   "precio": 130.4,
    "peso_forward": 0
   },
   {
    "clave": "Y2",
    "instrumento": "FTB YR-28",
-   "precio": 76.1,
+   "precio": 76.15,
    "peso_forward": 0
   },
   {
    "clave": "Y3",
    "instrumento": "FTB YR-29",
-   "precio": 68.0,
+   "precio": 68.5,
    "peso_forward": 0
   }
  ]
