@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-31T22:38:23",
+ "actualizado": "2026-11-01T22:56:07",
  "unidad": "EUR/MWh",
- "fecha_curva": "2026-10-31",
- "forward_12m": 141.64,
+ "fecha_curva": "2026-11-01",
+ "forward_12m": 140.86,
  "instrumentos": [
   {
    "clave": "M1",
@@ -56,7 +56,7 @@
    "clave": "Q4",
    "instrumento": "FTB Q4-27",
    "precio": 132.28,
-   "peso_forward": 1
+   "peso_forward": 2
   },
   {
    "clave": "Q5",
