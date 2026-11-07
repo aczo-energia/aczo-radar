@@ -1,67 +1,67 @@
 {
- "actualizado": "2026-11-06T00:27:16",
+ "actualizado": "2026-11-07T13:06:40",
  "unidad": "EUR/MWh",
- "fecha_curva": "2026-11-06",
- "forward_12m": 127.15,
+ "fecha_curva": "2026-11-07",
+ "forward_12m": 124.61,
  "instrumentos": [
   {
    "clave": "M1",
    "instrumento": "FTB M Dec-26",
-   "precio": 183.46,
+   "precio": 174.5,
    "peso_forward": 1
   },
   {
    "clave": "M2",
    "instrumento": "FTB M Jan-27",
-   "precio": 191.5,
+   "precio": 184.0,
    "peso_forward": 0
   },
   {
    "clave": "M3",
    "instrumento": "FTB M Feb-27",
-   "precio": 175.5,
+   "precio": 168.6,
    "peso_forward": 0
   },
   {
    "clave": "M4",
    "instrumento": "FTB M Mar-27",
-   "precio": 110.15,
+   "precio": 108.14,
    "peso_forward": 0
   },
   {
    "clave": "M5",
    "instrumento": "FTB M Apr-27",
-   "precio": 81.33,
+   "precio": 78.66,
    "peso_forward": 0
   },
   {
    "clave": "M6",
    "instrumento": "FTB M May-27",
-   "precio": 87.88,
+   "precio": 85.0,
    "peso_forward": 0
   },
   {
    "clave": "Q1",
    "instrumento": "FTB Q1-27",
-   "precio": 158.52,
+   "precio": 153.1,
    "peso_forward": 3
   },
   {
    "clave": "Q2",
    "instrumento": "FTB Q2-27",
-   "precio": 87.88,
+   "precio": 85.0,
    "peso_forward": 3
   },
   {
    "clave": "Q3",
    "instrumento": "FTB Q3-27",
-   "precio": 121.0,
+   "precio": 122.02,
    "peso_forward": 3
   },
   {
    "clave": "Q4",
    "instrumento": "FTB Q4-27",
-   "precio": 120.05,
+   "precio": 120.24,
    "peso_forward": 2
   },
   {
@@ -79,25 +79,25 @@
   {
    "clave": "Q7",
    "instrumento": "FTB Q3-28",
-   "precio": 73.98,
+   "precio": 72.43,
    "peso_forward": 0
   },
   {
    "clave": "Y1",
    "instrumento": "FTB YR-27",
-   "precio": 121.75,
+   "precio": 120.0,
    "peso_forward": 0
   },
   {
    "clave": "Y2",
    "instrumento": "FTB YR-28",
-   "precio": 71.5,
+   "precio": 70.0,
    "peso_forward": 0
   },
   {
    "clave": "Y3",
    "instrumento": "FTB YR-29",
-   "precio": 65.5,
+   "precio": 64.75,
    "peso_forward": 0
   }
  ]
