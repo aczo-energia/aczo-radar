@@ -1,31 +1,31 @@
 {
- "actualizado": "2026-11-13T00:35:44",
+ "actualizado": "2026-11-14T00:23:45",
  "unidad": "EUR/MWh",
- "fecha_curva": "2026-11-13",
- "forward_12m": 126.15,
+ "fecha_curva": "2026-11-14",
+ "forward_12m": 126.34,
  "instrumentos": [
   {
    "clave": "M1",
    "instrumento": "FTB M Dec-26",
-   "precio": 169.0,
+   "precio": 170.5,
    "peso_forward": 1
   },
   {
    "clave": "M2",
    "instrumento": "FTB M Jan-27",
-   "precio": 189.0,
+   "precio": 192.06,
    "peso_forward": 0
   },
   {
    "clave": "M3",
    "instrumento": "FTB M Feb-27",
-   "precio": 181.24,
+   "precio": 177.18,
    "peso_forward": 0
   },
   {
    "clave": "M4",
    "instrumento": "FTB M Mar-27",
-   "precio": 114.65,
+   "precio": 111.48,
    "peso_forward": 0
   },
   {
@@ -43,7 +43,7 @@
   {
    "clave": "Q1",
    "instrumento": "FTB Q1-27",
-   "precio": 161.0,
+   "precio": 159.7,
    "peso_forward": 3
   },
   {
@@ -55,49 +55,49 @@
   {
    "clave": "Q3",
    "instrumento": "FTB Q3-27",
-   "precio": 118.75,
+   "precio": 119.89,
    "peso_forward": 3
   },
   {
    "clave": "Q4",
    "instrumento": "FTB Q4-27",
-   "precio": 119.25,
+   "precio": 119.89,
    "peso_forward": 2
   },
   {
    "clave": "Q5",
    "instrumento": "FTB Q1-28",
-   "precio": 82.9,
+   "precio": 83.25,
    "peso_forward": 0
   },
   {
    "clave": "Q6",
    "instrumento": "FTB Q2-28",
-   "precio": 49.08,
+   "precio": 49.26,
    "peso_forward": 0
   },
   {
    "clave": "Q7",
    "instrumento": "FTB Q3-28",
-   "precio": 72.46,
+   "precio": 72.72,
    "peso_forward": 0
   },
   {
    "clave": "Y1",
    "instrumento": "FTB YR-27",
-   "precio": 121.87,
+   "precio": 122.0,
    "peso_forward": 0
   },
   {
    "clave": "Y2",
    "instrumento": "FTB YR-28",
-   "precio": 70.0,
+   "precio": 70.25,
    "peso_forward": 0
   },
   {
    "clave": "Y3",
    "instrumento": "FTB YR-29",
-   "precio": 62.95,
+   "precio": 63.4,
    "peso_forward": 0
   }
  ]
